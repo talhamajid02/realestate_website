@@ -7,4 +7,6 @@ db.sqlite3
 /media
 venv
 /static
-.vscode
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
